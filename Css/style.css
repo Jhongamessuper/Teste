@@ -1,0 +1,8 @@
+.BackGround{
+        background-image: url(./Imagens/037.png); 
+        background-repeat: repeat; 
+        position: absolute;
+        display: inline-flex;
+        animation: florestas-animacao infinite linear ;   
+        bottom: 0px;
+}
